@@ -1,5 +1,4 @@
 id,address,capacity,earthquake,elevation,evacuationSpace,fire,flood_L1,flood_L2,inundation,jurisdiction,latitude,longitude,name,residentsAssociation,sedimentDisaster,stormSurge,telephoneNumber,tunami
-jp.takamatsu.smartcity.shelter.EvacuationSpace.1,高松市瀬戸内町18-2,238,○,1.7,○,○,○,△,○,地域振興課,34.34753333,134.03003917,日新小学校跡施設,日新地区コミュニティ協議会,○,△,087-839-2611,△
 jp.takamatsu.smartcity.shelter.EvacuationSpace.2,高松市錦町2-14-1,429,○,2.9,○,○,○,△,○,教育総務課,34.34583944,134.04099361,新番丁小学校,二番丁地区コミュニティ協議会,○,△,087-851-1316,△
 jp.takamatsu.smartcity.shelter.EvacuationSpace.3,高松市番町1-5-1,315,○,2.5,○,○,○,○,○,埋蔵文化財センター,34.34377306,134.04579889,四番丁小学校跡施設,四番丁コミュニティ協議会,○,△,087-823-2714,○
 jp.takamatsu.smartcity.shelter.EvacuationSpace.4,高松市亀岡町10-1,351,○,4.1,○,○,○,○,○,教育総務課,34.33752361,134.03989417,亀阜小学校,亀阜校区コミュニティ協議会,○,△,087-861-2013,○
